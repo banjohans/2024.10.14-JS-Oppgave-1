@@ -113,6 +113,14 @@ let w = 5;
 let z = w % 2;
 console.log("Let's just for fun throw in a remainder of the day: " + z);
 
+x = 8;
+x += 3;
+console.log("here's a new x value for you after given a += operator: " + x);
+
+x = 17;
+x -= 3;
+console.log("here's a new x value for you after given a -= operator: " + x);
+
 /****************************************************************************** 
 
 ASSIGNMENT 4
